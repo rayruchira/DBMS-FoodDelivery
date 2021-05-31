@@ -2,6 +2,10 @@
 
 # Food World Delivery
 
+<img src="/PIC/Screenshot from 2021-05-31 15-51-28.png" width="100%" />
+
+<p>&nbsp;</p>
+
 This project is a simple Order Delivery System example of popular e-commerce websites such as Amazon and Flipkart. An order management system (OMS) is a digital method of managing an order's lifetime. It keeps track of all information and processes, such as order entry, inventory management, fulfilment, and after-sales support. An OMS provides visibility to both the company and the buyer. The data in our project is easily retrievable. The interface is straightforward to use. The data is well safeguarded for personal use, and the processing is rapid.
 
 ## Front end tools:
@@ -47,11 +51,10 @@ This project is a simple Order Delivery System example of popular e-commerce web
 
 <!-- ![DEMO](/PIC/Screenshot from 2021-05-31 15-51-28.png) -->
 
-<img src="/PIC/Screenshot from 2021-05-31 15-51-28.png" width="100%" />
+
+
+**Collaborator: [Pallavi Y](https://github.com/Pallavi012000)**
 
 <p>&nbsp;</p>
-
-
-  
     
-*reference: [Swastat-Masta---ODS](https://github.com/divyaalone/Swastat-Masta---ODS) with pipeline improvements*
+(*reference: [Swastat-Masta---ODS](https://github.com/divyaalone/Swastat-Masta---ODS) with pipeline improvements*)
