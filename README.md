@@ -54,4 +54,4 @@ This project is a simple Order Delivery System example of popular e-commerce web
 
   
     
-*reference: [Swastat-Masta---ODS](https://github.com/divyaalone/Swastat-Masta---ODS) with improvements*
+*reference: [Swastat-Masta---ODS](https://github.com/divyaalone/Swastat-Masta---ODS) with pipeline improvements*
