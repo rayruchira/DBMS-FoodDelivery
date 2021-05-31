@@ -45,6 +45,12 @@ This project is a simple Order Delivery System example of popular e-commerce web
 
 <p>&nbsp;</p>
 
+<!-- ![DEMO](/PIC/Screenshot from 2021-05-31 15-51-28.png) -->
+
+<img src="/PIC/Screenshot from 2021-05-31 15-51-28.png" width="100%" />
+
+<p>&nbsp;</p>
+
 
   
     
